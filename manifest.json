@@ -1,0 +1,43 @@
+{
+    "name": "SohamOrigami",
+    "short_name": "SYJOrigami",
+    "description": "Best tutorials ever to make origami animals",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons":[
+        {
+            "src": "/img/logo/72x72.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/logo/96x96.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/logo/144x144.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/logo/192x192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/img/logo/512x512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+
+    ]
+}
