@@ -1,16 +1,16 @@
 const staticCachceName = 'site-static';
 const assests =[
     '/',
-    '/index.html',
-    '/js/app.js',
-    '/js/thisapp.js',
+    './index.html',
+    './js/app.js',
+    './js/thisapp.js',
     '/style.css',
-    '/img/camel.png',
-    '/img/chameleon.png',
-    '/img/cicada.png',
-    '/img/pigeon.png',
-    '/img/teddy.png',
-    '/img/panda.png',
+    './img/camel.png',
+    './img/chameleon.png',
+    './img/cicada.png',
+    './img/pigeon.png',
+    './img/teddy.png',
+    './img/panda.png',
     'https://fonts.googleapis.com/css2?family=Poppins&display=swap',
 ]
 
